@@ -17,3 +17,6 @@ Mostrar la infromacion de los productos registrados y el precio estimado de vent
 Captura de Ejecución
 
 ![Sin título3](https://user-images.githubusercontent.com/74581066/172193717-b89480bc-e2a4-4c42-a4ef-28f11c56c79f.png)
+
+El ejercicio es de donde estudio
+mi carnet es em21018 por eso los ejercicos tienen ese nombre
