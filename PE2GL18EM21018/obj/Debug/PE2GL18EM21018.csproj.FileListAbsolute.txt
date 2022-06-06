@@ -1,0 +1,10 @@
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\bin\Debug\PE2GL18EM21018.exe.config
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\bin\Debug\PE2GL18EM21018.exe
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\bin\Debug\PE2GL18EM21018.pdb
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.csproj.AssemblyReference.cache
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.Form1.resources
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.Properties.Resources.resources
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.csproj.GenerateResource.cache
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.csproj.CoreCompileInputs.cache
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.exe
+C:\Users\José\source\repos\PE2GL18EM21018\PE2GL18EM21018\obj\Debug\PE2GL18EM21018.pdb
